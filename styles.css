@@ -1,0 +1,14 @@
+body{
+    background-image: url("coins.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.inner-container{
+    margin: 10% 15%;
+    padding: 3%;
+    border-radius: 10px;
+    background-color:lavender;
+    text-align: center;
+
+}
